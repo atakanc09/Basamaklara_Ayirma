@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\calisma7\calisma7\bin\Debug\calisma7.exe.config
+C:\Users\LENOVO\source\repos\calisma7\calisma7\bin\Debug\calisma7.exe
+C:\Users\LENOVO\source\repos\calisma7\calisma7\bin\Debug\calisma7.pdb
+C:\Users\LENOVO\source\repos\calisma7\calisma7\obj\Debug\calisma7.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\calisma7\calisma7\obj\Debug\calisma7.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\calisma7\calisma7\obj\Debug\calisma7.exe
+C:\Users\LENOVO\source\repos\calisma7\calisma7\obj\Debug\calisma7.pdb
